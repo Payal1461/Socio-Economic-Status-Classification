@@ -1,6 +1,6 @@
 # Socio-Economic Status Classification of Indian Districts
 
-This project is on classifying Indian districts into
+This project is based on classifying Indian districts into
 different socio-economic status (SES) categories using census-based data.
 
 The work uses data from Census 2011 and SECC 2011 and applies standard
